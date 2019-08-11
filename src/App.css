@@ -412,3 +412,8 @@ table th {
     justify-content: center;
   }
 }
+
+.active {
+  background: #a00514;
+  text-transform: uppercase;
+}
